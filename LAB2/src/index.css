@@ -1,0 +1,10 @@
+/* Basic global styles for the app */
+body {
+  margin: 0; /* Xóa margin mặc định của trình duyệt */
+  font-family: 'Segoe UI', Arial, sans-serif; /* Font chữ chính cho toàn app */
+  background: #f8f9fa; /* Màu nền nhẹ, đồng bộ với Bootstrap */
+}
+
+#root {
+  min-height: 100vh; /* Đảm bảo app luôn chiếm đủ chiều cao màn hình */
+}
